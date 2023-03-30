@@ -4,7 +4,7 @@ public class Main {
 
         // 2D array = an array of arrays
 
-        String[][] cars = 	{
+        String[][] cars_arentgreat = 	{
                 {"Camaro","Corvette","Silverado"},
                 {"Mustang","Ranger","F-150"},
                 {"Ferrari","Lambo","Tesla"}

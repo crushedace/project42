@@ -7,7 +7,7 @@ public class code3 {
 
             Scanner scanner = new Scanner(System.in);
 
-            System.out.println("What is your name? ");
+            System.out.println("What is your're name? ");
             String name = scanner.nextLine();
 
             System.out.println("How old are you? ");
